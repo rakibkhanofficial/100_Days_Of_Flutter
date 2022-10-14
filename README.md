@@ -27,7 +27,7 @@ This project is for practice purpose of flutter, where I take a challange of 100
 ## Requirements 
 
 - Any Operating System (MacOS, Linux, Windows)
-- IntelIJ IDE with Dart SDK installed (IntelIJ, Python sdk)
+- IntelIJ IDE, Visual studio code or Android Studio  with Dart SDK installed flutter extension,(IntelIJ, android)
 - A little knowledge of any other programming languages 
 
 ## Auther
